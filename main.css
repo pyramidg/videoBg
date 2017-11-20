@@ -4,7 +4,9 @@
 }
 
 body{
+
   font-family:monospace;
+  background-color: red;
 }
 
 .background-wrap {
@@ -51,4 +53,8 @@ body{
   font-size: 20px;
   letter-spacing: 3px;
   color: #aaa;
+}
+
+#mute{
+
 }
